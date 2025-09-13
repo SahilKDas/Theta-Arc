@@ -1,0 +1,629 @@
+{
+  "annihilon": {
+    "id": 1,
+    "name": "Annihilon",
+    "description": "Dominant skeletal titan with lingering reptilian scales. It channels void storms.",
+    "type": "Void Titan",
+    "region": "Eclipsed Rift",
+    "stats": {
+      "attack": 5800,
+      "speed": 4200,
+      "health": 12000,
+      "endurance": 9500
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Titan"
+    ],
+    "image_file": "./annihilon.png",
+    "value": {
+      "gold_shards": 200,
+      "diamond_shards": 5,
+      "enchanted_shards": 1
+    },
+    "catch_reward": {
+      "gold_shards": 10
+    },
+    "evolves_to": "eternarch",
+    "evolve_cost": {
+      "diamond_shards": 10,
+      "enchanted_shards": 2
+    },
+    "artist": "@lordhank2"
+  },
+  "eternarch": {
+    "id": 2,
+    "name": "Eternarch",
+    "description": "Ascended void sovereign formed from annihilated scales and immortal bone sigils.",
+    "type": "Void Titan",
+    "region": "Crown of the Rift",
+    "stats": {
+      "attack": 9200,
+      "speed": 5600,
+      "health": 18000,
+      "endurance": 13000
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Titan"
+    ],
+    "image_file": "./eternarch.png",
+    "value": {
+      "gold_shards": 500,
+      "diamond_shards": 15,
+      "enchanted_shards": 4
+    },
+    "catch_reward": {
+      "gold_shards": 15
+    },
+    "artist": "@lordhank2"
+  },
+  "darkmage": {
+    "id": 3,
+    "name": "Darkmage",
+    "description": "A void-touched archmage cloaked in amethyst haze, channeling silent sigils.",
+    "type": "Void Caster",
+    "region": "Umbral Cloister",
+    "stats": {
+      "attack": 3900,
+      "speed": 5200,
+      "health": 9000,
+      "endurance": 11000
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Arcane"
+    ],
+    "image_file": "./darkmage.png",
+    "value": {
+      "gold_shards": 120,
+      "diamond_shards": 3,
+      "enchanted_shards": 1
+    },
+    "catch_reward": {
+      "gold_shards": 8
+    },
+    "artist": "@legostarwarsd"
+  },
+  "fleeb": {
+    "id": 4,
+    "name": "Fleeb",
+    "description": "The evil, gelatinous TAC that oozes malice.",
+    "type": "Corrupted Slime",
+    "region": "Blood Rift",
+    "stats": {
+      "attack": 3000,
+      "speed": 2000,
+      "health": 16000,
+      "endurance": 8000
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Slime"
+    ],
+    "image_file": "./fleeb.png",
+    "value": {
+      "gold_shards": 250,
+      "diamond_shards": 6,
+      "enchanted_shards": 2
+    },
+    "catch_reward": {
+      "gold_shards": 12
+    },
+    "artist": "@lordhank2"
+  },
+  "asterophant": {
+    "id": 5,
+    "name": "Asterophant",
+    "description": "A tide-touched pachyderm speckled with astral shells. It trumpets ripples that bend starlight.",
+    "type": "Tidal Guardian",
+    "region": "Shoals Beyond the Rift",
+    "stats": {
+      "attack": 3600,
+      "speed": 3000,
+      "health": 16000,
+      "endurance": 14500
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Arcane"
+    ],
+    "image_file": "./asterophant.png",
+    "artist": "@legoStarWarsD",
+    "rarity": "rare",
+    "value": {
+      "gold_shards": 180,
+      "diamond_shards": 4,
+      "enchanted_shards": 1
+    },
+    "catch_reward": {
+      "gold_shards": 9
+    }
+  },
+  "mycoghul": {
+    "id": 6,
+    "name": "Mycoghul",
+    "description": "A lumbering spore-ghoul. It endures forever but strikes with feeble force.",
+    "type": "Plague Undead",
+    "region": "Decay Mire",
+    "stats": {
+      "attack": 3200,
+      "speed": 2800,
+      "health": 7200,
+      "endurance": 14200
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Slime"
+    ],
+    "image_file": "./mycoghul.png",
+    "value": {
+      "gold_shards": 160,
+      "diamond_shards": 3,
+      "enchanted_shards": 1
+    },
+    "catch_reward": {
+      "gold_shards": 7
+    },
+    "artist": "@lordhank2"
+  },
+  "glacivern": {
+    "id": 7,
+    "name": "Glacivern",
+    "description": "A razored frost wyrm that blitzes foes with arctic speed.",
+    "type": "Frost Serpent",
+    "region": "Frost Hollows",
+    "stats": {
+      "attack": 8600,
+      "speed": 7800,
+      "health": 10400,
+      "endurance": 6200
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Arcane"
+    ],
+    "image_file": "./glacivern.png",
+    "value": {
+      "gold_shards": 240,
+      "diamond_shards": 6,
+      "enchanted_shards": 2
+    },
+    "catch_reward": {
+      "gold_shards": 13
+    },
+    "artist": "@lordhank2"
+  },
+  "ignivore": {
+    "id": 8,
+    "name": "Ignivore",
+    "description": "A fire-drake that devours flame itself, glowing hotter the longer it fights.",
+    "type": "Inferno Beast",
+    "region": "Ashen Rift",
+    "stats": {
+      "attack": 8800,
+      "speed": 6600,
+      "health": 10200,
+      "endurance": 7400
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Titan"
+    ],
+    "image_file": "./ignivore.png",
+    "value": {
+      "gold_shards": 260,
+      "diamond_shards": 7,
+      "enchanted_shards": 2
+    },
+    "catch_reward": {
+      "gold_shards": 14
+    },
+    "artist": "@lordhank2"
+  },
+  "sylphidra": {
+    "id": 9,
+    "name": "Sylphidra",
+    "description": "A serpentine sylph that coils on high winds, striking faster than thought.",
+    "type": "Wind Serpent",
+    "region": "Zephyr Canopy",
+    "stats": {
+      "attack": 5400,
+      "speed": 9100,
+      "health": 8000,
+      "endurance": 6600
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Arcane"
+    ],
+    "image_file": "./sylphidra.png",
+    "value": {
+      "gold_shards": 230,
+      "diamond_shards": 5,
+      "enchanted_shards": 2
+    },
+    "catch_reward": {
+      "gold_shards": 11
+    },
+    "artist": "@legostarwarsd"
+  },
+  "oblivark": {
+    "id": 10,
+    "name": "Oblivark",
+    "description": "A great obsidian bird whose wings blot out starlight.",
+    "type": "Rift Harbinger",
+    "region": "Black Skies",
+    "stats": {
+      "attack": 7800,
+      "speed": 7200,
+      "health": 9800,
+      "endurance": 8800
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Titan"
+    ],
+    "image_file": "./oblivark.png",
+    "value": {
+      "gold_shards": 250,
+      "diamond_shards": 6,
+      "enchanted_shards": 2
+    },
+    "catch_reward": {
+      "gold_shards": 12
+    },
+    "artist": "@lordhank2"
+  },
+  "cryptofang": {
+    "id": 11,
+    "name": "Cryptofang",
+    "description": "A skeletal wolf that hunts in silence, trailing decay.",
+    "type": "Ghoul Beast",
+    "region": "Grave Chasm",
+    "stats": {
+      "attack": 6200,
+      "speed": 5800,
+      "health": 14000,
+      "endurance": 11800
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Slime"
+    ],
+    "image_file": "./cryptofang.png",
+    "value": {
+      "gold_shards": 210,
+      "diamond_shards": 5,
+      "enchanted_shards": 1
+    },
+    "catch_reward": {
+      "gold_shards": 10
+    },
+    "artist": "@lordhank2"
+  },
+  "aurelith": {
+    "id": 12,
+    "name": "Aurelith",
+    "description": "A golden-scaled sentinel said to guard shards of creation.",
+    "type": "Radiant Guardian",
+    "region": "Celestial Caverns",
+    "stats": {
+      "attack": 6900,
+      "speed": 6400,
+      "health": 12500,
+      "endurance": 9700
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Arcane"
+    ],
+    "image_file": "./aurelith.png",
+    "value": {
+      "gold_shards": 270,
+      "diamond_shards": 8,
+      "enchanted_shards": 3
+    },
+    "catch_reward": {
+      "gold_shards": 15
+    },
+    "artist": "@legostarwarsd"
+  },
+  "mantivern": {
+    "id": 13,
+    "name": "Mantivern",
+    "description": "A venomous hybrid of lion, bat, and serpent, prowling the twilight.",
+    "type": "Chimera Beast",
+    "region": "Twilight Ravine",
+    "stats": {
+      "attack": 7500,
+      "speed": 6800,
+      "health": 11200,
+      "endurance": 9200
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Titan"
+    ],
+    "image_file": "./mantivern.png",
+    "value": {
+      "gold_shards": 240,
+      "diamond_shards": 6,
+      "enchanted_shards": 2
+    },
+    "catch_reward": {
+      "gold_shards": 13
+    },
+    "artist": "@lordhank2"
+  },
+  "thornraith": {
+    "id": 14,
+    "name": "Thornraith",
+    "description": "An undead wraith woven from vines and thorns, cursed to wander eternally.",
+    "type": "Necrotic Flora",
+    "region": "Vile Thicket",
+    "stats": {
+      "attack": 5200,
+      "speed": 4800,
+      "health": 12800,
+      "endurance": 12000
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Slime"
+    ],
+    "image_file": "./thornraith.png",
+    "value": {
+      "gold_shards": 190,
+      "diamond_shards": 4,
+      "enchanted_shards": 1
+    },
+    "catch_reward": {
+      "gold_shards": 9
+    },
+    "artist": "@lordhank2"
+  },
+  "kelprath": {
+    "id": 15,
+    "name": "Kelprath",
+    "description": "A leviathan cloaked in seaweed and abyssal rot, dragging sailors to their doom.",
+    "type": "Tidal Horror",
+    "region": "Drowned Trenches",
+    "stats": {
+      "attack": 6000,
+      "speed": 4600,
+      "health": 17000,
+      "endurance": 13200
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Titan"
+    ],
+    "image_file": "./kelprath.png",
+    "value": {
+      "gold_shards": 280,
+      "diamond_shards": 8,
+      "enchanted_shards": 2
+    },
+    "catch_reward": {
+      "gold_shards": 14
+    },
+    "artist": "@legostarwarsd"
+  },
+  "umbragel": {
+    "id": 16,
+    "name": "Umbragel",
+    "description": "A jelly of shadows, pulsing with void-light within its translucent form.",
+    "type": "Shadow Slime",
+    "region": "Eclipsed Shoals",
+    "stats": {
+      "attack": 4400,
+      "speed": 5100,
+      "health": 10000,
+      "endurance": 9300
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Slime"
+    ],
+    "image_file": "./umbragel.png",
+    "value": {
+      "gold_shards": 170,
+      "diamond_shards": 3,
+      "enchanted_shards": 1
+    },
+    "catch_reward": {
+      "gold_shards": 8
+    },
+    "artist": "@lordhank2"
+  },
+  "zephyrox": {
+    "id": 17,
+    "name": "Zephyrox",
+    "description": "A storm-forged hawk riding lightning currents between worlds.",
+    "type": "Storm Harbinger",
+    "region": "Cloudspire Peaks",
+    "stats": {
+      "attack": 8100,
+      "speed": 8700,
+      "health": 9200,
+      "endurance": 7800
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Arcane"
+    ],
+    "image_file": "./zephyrox.png",
+    "value": {
+      "gold_shards": 260,
+      "diamond_shards": 7,
+      "enchanted_shards": 3
+    },
+    "catch_reward": {
+      "gold_shards": 15
+    },
+    "artist": "@lordhank2"
+  },
+  "dracolyte": {
+    "id": 18,
+    "name": "Dracolyte",
+    "description": "A lesser drake infused with molten shard-energy, searing the ground it walks.",
+    "type": "Shard Drake",
+    "region": "Fractured Depths",
+    "stats": {
+      "attack": 7200,
+      "speed": 5900,
+      "health": 11000,
+      "endurance": 8800
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Titan"
+    ],
+    "image_file": "./dracolyte.png",
+    "value": {
+      "gold_shards": 220,
+      "diamond_shards": 6,
+      "enchanted_shards": 2
+    },
+    "catch_reward": {
+      "gold_shards": 12
+    },
+    "artist": "@lordhank2"
+  },
+  "fungalith": {
+    "id": 19,
+    "name": "Fungalith",
+    "description": "A lumbering golem overgrown with colossal fungi, shedding spores as it moves.",
+    "type": "Spore Golem",
+    "region": "Rotwood Caverns",
+    "stats": {
+      "attack": 3800,
+      "speed": 2400,
+      "health": 18000,
+      "endurance": 15000
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Slime"
+    ],
+    "image_file": "./fungalith.png",
+    "value": {
+      "gold_shards": 200,
+      "diamond_shards": 5,
+      "enchanted_shards": 1
+    },
+    "catch_reward": {
+      "gold_shards": 9
+    },
+    "artist": "@lordhank2"
+  },
+  "seraphis": {
+    "id": 20,
+    "name": "Seraphis",
+    "description": "A radiant angelic TAC forged from light, feathers gleaming like crystal.",
+    "type": "Celestial Guardian",
+    "region": "Sanctum Above",
+    "stats": {
+      "attack": 8800,
+      "speed": 7200,
+      "health": 13200,
+      "endurance": 11200
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Arcane"
+    ],
+    "image_file": "./seraphis.png",
+    "value": {
+      "gold_shards": 300,
+      "diamond_shards": 10,
+      "enchanted_shards": 3
+    },
+    "catch_reward": {
+      "gold_shards": 18
+    },
+    "artist": "@legostarwarsd"
+  },
+  "blightjaw": {
+    "id": 21,
+    "name": "Blightjaw",
+    "description": "A corrupted reptile whose maw drips venom that dissolves even shadows.",
+    "type": "Toxic Reptile",
+    "region": "Pestilent Mire",
+    "stats": {
+      "attack": 6600,
+      "speed": 5400,
+      "health": 10800,
+      "endurance": 9400
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Slime"
+    ],
+    "image_file": "./blightjaw.png",
+    "value": {
+      "gold_shards": 210,
+      "diamond_shards": 5,
+      "enchanted_shards": 2
+    },
+    "catch_reward": {
+      "gold_shards": 11
+    },
+    "artist": "@lordhank2"
+  },
+  "cryovast": {
+    "id": 22,
+    "name": "Cryovast",
+    "description": "A massive glacier-beast that lumbers with icy inevitability.",
+    "type": "Glacier Titan",
+    "region": "Frozen Wastes",
+    "stats": {
+      "attack": 6100,
+      "speed": 3300,
+      "health": 20000,
+      "endurance": 15800
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Titan"
+    ],
+    "image_file": "./cryovast.png",
+    "value": {
+      "gold_shards": 280,
+      "diamond_shards": 8,
+      "enchanted_shards": 3
+    },
+    "catch_reward": {
+      "gold_shards": 16
+    },
+    "artist": "@lordhank2"
+  },
+  "lightmage": {
+    "id": 23,
+    "name": "Lightmage",
+    "description": "A radiant archmage cloaked in golden luminescence, weaving spells of clarity and hope.",
+    "type": "Radiant Caster",
+    "region": "Sanctum Above",
+    "stats": {
+      "attack": 4200,
+      "speed": 5300,
+      "health": 8800,
+      "endurance": 11200
+    },
+    "egg_groups": [
+      "Abyssal",
+      "Arcane"
+    ],
+    "image_file": "./lightmage.png",
+    "value": {
+      "gold_shards": 130,
+      "diamond_shards": 3,
+      "enchanted_shards": 1
+    },
+    "catch_reward": {
+      "gold_shards": 8
+    },
+    "artist": "@legostarwarsd"
+  }
+}

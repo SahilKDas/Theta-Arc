@@ -1,0 +1,1223 @@
+{
+  "1373152377825132605": {
+    "status": "dev & artist & admin",
+    "user_id": 1373152377825132605,
+    "currency": {
+      "gold_shards": 18280,
+      "diamond_shards": 49,
+      "enchanted_shards": 25
+    },
+    "catches": {},
+    "inventory": [
+      {
+        "id": 1,
+        "tac": "annihilon",
+        "level": 6,
+        "gender": "F",
+        "ivs": {
+          "attack": 11600,
+          "speed": 8400,
+          "health": 24000,
+          "endurance": 19000
+        },
+        "iv_avg": 200.0
+      },
+      {
+        "id": 2,
+        "tac": "eternarch",
+        "level": 3,
+        "gender": "M",
+        "ivs": {
+          "attack": 73600,
+          "speed": 44800,
+          "health": 144000,
+          "endurance": 104000
+        },
+        "iv_avg": 800.0
+      },
+      {
+        "id": 3,
+        "tac": "annihilon",
+        "level": 10,
+        "gender": "M",
+        "ivs": {
+          "attack": 5800,
+          "speed": 4200,
+          "health": 12000,
+          "endurance": 9500
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 4,
+        "tac": "annihilon",
+        "level": 2,
+        "gender": "M",
+        "ivs": {
+          "attack": 5800,
+          "speed": 4200,
+          "health": 12000,
+          "endurance": 9500
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 5,
+        "tac": "annihilon",
+        "level": 5,
+        "gender": "M",
+        "ivs": {
+          "attack": 5800,
+          "speed": 4200,
+          "health": 12000,
+          "endurance": 9500
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 6,
+        "tac": "annihilon",
+        "level": 2,
+        "gender": "M",
+        "ivs": {
+          "attack": 5800,
+          "speed": 4200,
+          "health": 12000,
+          "endurance": 9500
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 7,
+        "tac": "eternarch",
+        "level": 4,
+        "gender": "F",
+        "ivs": {
+          "attack": 9200,
+          "speed": 5600,
+          "health": 18000,
+          "endurance": 13000
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 8,
+        "tac": "eternarch",
+        "level": 7,
+        "gender": "F",
+        "ivs": {
+          "attack": 9200,
+          "speed": 5600,
+          "health": 18000,
+          "endurance": 13000
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 9,
+        "tac": "annihilon",
+        "level": 10,
+        "gender": "M",
+        "ivs": {
+          "attack": 5800,
+          "speed": 4200,
+          "health": 12000,
+          "endurance": 9500
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 10,
+        "tac": "annihilon",
+        "level": 2,
+        "gender": "F",
+        "ivs": {
+          "attack": 5800,
+          "speed": 4200,
+          "health": 12000,
+          "endurance": 9500
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 11,
+        "tac": "eternarch",
+        "level": 9,
+        "gender": "M",
+        "ivs": {
+          "attack": 9200,
+          "speed": 5600,
+          "health": 18000,
+          "endurance": 13000
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 12,
+        "tac": "eternarch",
+        "level": 4,
+        "gender": "M",
+        "ivs": {
+          "attack": 8802,
+          "speed": 5155,
+          "health": 15111,
+          "endurance": 12240
+        },
+        "iv_avg": 91.46
+      },
+      {
+        "id": 13,
+        "tac": "eternarch",
+        "level": 4,
+        "gender": "M",
+        "ivs": {
+          "attack": 8507,
+          "speed": 5353,
+          "health": 16747,
+          "endurance": 12512
+        },
+        "iv_avg": 94.34
+      },
+      {
+        "id": 14,
+        "tac": "annihilon",
+        "level": 3,
+        "gender": "M",
+        "ivs": {
+          "attack": 5051,
+          "speed": 3793,
+          "health": 10076,
+          "endurance": 7794
+        },
+        "iv_avg": 85.85
+      },
+      {
+        "id": 15,
+        "tac": "eternarch",
+        "level": 1,
+        "gender": "M",
+        "ivs": {
+          "attack": 7965,
+          "speed": 5522,
+          "health": 15455,
+          "endurance": 12277
+        },
+        "iv_avg": 91.37
+      },
+      {
+        "id": 16,
+        "tac": "darkmage",
+        "level": 5,
+        "gender": "F",
+        "ivs": {
+          "attack": 3616,
+          "speed": 4354,
+          "health": 7211,
+          "endurance": 9653
+        },
+        "iv_avg": 86.08
+      },
+      {
+        "id": 17,
+        "tac": "annihilon",
+        "level": 6,
+        "gender": "M",
+        "ivs": {
+          "attack": 5260,
+          "speed": 3528,
+          "health": 9769,
+          "endurance": 8536
+        },
+        "iv_avg": 86.49
+      },
+      {
+        "id": 18,
+        "tac": "annihilon",
+        "level": 5,
+        "gender": "F",
+        "ivs": {
+          "attack": 4866,
+          "speed": 3488,
+          "health": 10053,
+          "endurance": 7858
+        },
+        "iv_avg": 83.36
+      },
+      {
+        "id": 19,
+        "tac": "annihilon",
+        "level": 9,
+        "gender": "F",
+        "ivs": {
+          "attack": 5279,
+          "speed": 3455,
+          "health": 10362,
+          "endurance": 8554
+        },
+        "iv_avg": 87.42
+      },
+      {
+        "id": 20,
+        "tac": "darkmage",
+        "level": 209,
+        "gender": "F",
+        "ivs": {
+          "attack": 3477,
+          "speed": 4576,
+          "health": 7627,
+          "endurance": 9464
+        },
+        "iv_avg": 86.98
+      },
+      {
+        "id": 21,
+        "tac": "darkmage",
+        "level": 5,
+        "gender": "M",
+        "ivs": {
+          "attack": 3555,
+          "speed": 4935,
+          "health": 7236,
+          "endurance": 9505
+        },
+        "iv_avg": 88.22
+      },
+      {
+        "id": 23,
+        "tac": "eternarch",
+        "level": 6,
+        "gender": "M",
+        "ivs": {
+          "attack": 8010,
+          "speed": 5530,
+          "health": 15792,
+          "endurance": 11611
+        },
+        "iv_avg": 90.72
+      },
+      {
+        "id": 24,
+        "tac": "fleeb",
+        "level": 2,
+        "gender": "M",
+        "ivs": {
+          "attack": 2581,
+          "speed": 1637,
+          "health": 15949,
+          "endurance": 7130
+        },
+        "iv_avg": 89.17
+      },
+      {
+        "id": 25,
+        "tac": "fleeb",
+        "level": 9,
+        "gender": "M",
+        "ivs": {
+          "attack": 2594,
+          "speed": 1847,
+          "health": 13407,
+          "endurance": 7974
+        },
+        "iv_avg": 90.57
+      },
+      {
+        "id": 26,
+        "tac": "darkmage",
+        "level": 77,
+        "gender": "M",
+        "ivs": {
+          "attack": 3462,
+          "speed": 4528,
+          "health": 8968,
+          "endurance": 10747
+        },
+        "iv_avg": 93.3
+      },
+      {
+        "id": 27,
+        "tac": "eternarch",
+        "level": 9,
+        "gender": "F",
+        "ivs": {
+          "attack": 8335,
+          "speed": 5407,
+          "health": 14429,
+          "endurance": 11644
+        },
+        "iv_avg": 89.22
+      },
+      {
+        "id": 28,
+        "tac": "annihilon",
+        "level": 3,
+        "gender": "M",
+        "ivs": {
+          "attack": 5039,
+          "speed": 3732,
+          "health": 10563,
+          "endurance": 9006
+        },
+        "iv_avg": 89.64
+      },
+      {
+        "id": 29,
+        "tac": "fleeb",
+        "level": 5,
+        "gender": "M",
+        "ivs": {
+          "attack": 2726,
+          "speed": 1858,
+          "health": 13242,
+          "endurance": 7339
+        },
+        "iv_avg": 89.57
+      },
+      {
+        "id": 30,
+        "tac": "fleeb",
+        "level": 8,
+        "gender": "F",
+        "ivs": {
+          "attack": 2491,
+          "speed": 1935,
+          "health": 14552,
+          "endurance": 6576
+        },
+        "iv_avg": 88.23
+      },
+      {
+        "id": 31,
+        "tac": "fleeb",
+        "level": 9,
+        "gender": "F",
+        "ivs": {
+          "attack": 2648,
+          "speed": 1875,
+          "health": 14378,
+          "endurance": 6851
+        },
+        "iv_avg": 89.38
+      },
+      {
+        "id": 32,
+        "tac": "fleeb",
+        "level": 6,
+        "gender": "F",
+        "ivs": {
+          "attack": 2508,
+          "speed": 1961,
+          "health": 12876,
+          "endurance": 7339
+        },
+        "iv_avg": 88.47
+      },
+      {
+        "id": 33,
+        "tac": "eternarch",
+        "level": 2,
+        "gender": "M",
+        "ivs": {
+          "attack": 7442,
+          "speed": 5461,
+          "health": 16190,
+          "endurance": 11761
+        },
+        "iv_avg": 89.71
+      },
+      {
+        "id": 34,
+        "tac": "asterophant",
+        "level": 8,
+        "gender": "M",
+        "ivs": {
+          "attack": 3387,
+          "speed": 2532,
+          "health": 13324,
+          "endurance": 11944
+        },
+        "iv_avg": 86.03
+      },
+      {
+        "id": 35,
+        "tac": "eternarch",
+        "level": 5,
+        "gender": "F",
+        "ivs": {
+          "attack": 9088,
+          "speed": 5140,
+          "health": 17168,
+          "endurance": 10954
+        },
+        "iv_avg": 92.55
+      },
+      {
+        "id": 36,
+        "tac": "annihilon",
+        "level": 10,
+        "gender": "F",
+        "ivs": {
+          "attack": 4980,
+          "speed": 3846,
+          "health": 11766,
+          "endurance": 8513
+        },
+        "iv_avg": 91.27
+      },
+      {
+        "id": 37,
+        "tac": "annihilon",
+        "level": 3,
+        "gender": "M",
+        "ivs": {
+          "attack": 5749,
+          "speed": 3526,
+          "health": 11050,
+          "endurance": 8181
+        },
+        "iv_avg": 90.32
+      },
+      {
+        "id": 38,
+        "tac": "darkmage",
+        "level": 5,
+        "gender": "F",
+        "ivs": {
+          "attack": 3257,
+          "speed": 4569,
+          "health": 8401,
+          "endurance": 8985
+        },
+        "iv_avg": 86.6
+      },
+      {
+        "id": 39,
+        "tac": "fleeb",
+        "level": 8,
+        "gender": "M",
+        "ivs": {
+          "attack": 2621,
+          "speed": 1767,
+          "health": 15194,
+          "endurance": 6577
+        },
+        "iv_avg": 88.22
+      },
+      {
+        "id": 40,
+        "tac": "fleeb",
+        "level": 4,
+        "gender": "F",
+        "ivs": {
+          "attack": 2501,
+          "speed": 1722,
+          "health": 13488,
+          "endurance": 6997
+        },
+        "iv_avg": 85.31
+      },
+      {
+        "id": 41,
+        "tac": "darkmage",
+        "level": 9,
+        "gender": "M",
+        "ivs": {
+          "attack": 3606,
+          "speed": 4943,
+          "health": 7329,
+          "endurance": 10008
+        },
+        "iv_avg": 89.98
+      },
+      {
+        "id": 42,
+        "tac": "asterophant",
+        "level": 7,
+        "gender": "M",
+        "ivs": {
+          "attack": 3497,
+          "speed": 2743,
+          "health": 13043,
+          "endurance": 12366
+        },
+        "iv_avg": 88.84
+      },
+      {
+        "id": 43,
+        "tac": "asterophant",
+        "level": 8,
+        "gender": "F",
+        "ivs": {
+          "attack": 3365,
+          "speed": 2754,
+          "health": 13399,
+          "endurance": 14339
+        },
+        "iv_avg": 91.98
+      },
+      {
+        "id": 44,
+        "tac": "fleeb",
+        "level": 5,
+        "gender": "M",
+        "ivs": {
+          "attack": 2793,
+          "speed": 1908,
+          "health": 13869,
+          "endurance": 7202
+        },
+        "iv_avg": 91.3
+      },
+      {
+        "id": 45,
+        "tac": "asterophant",
+        "level": 7,
+        "gender": "M",
+        "ivs": {
+          "attack": 2358,
+          "speed": 773,
+          "health": 10560,
+          "endurance": 6337
+        },
+        "iv_avg": 50.24
+      },
+      {
+        "id": 46,
+        "tac": "asterophant",
+        "level": 6,
+        "gender": "M",
+        "ivs": {
+          "attack": 900,
+          "speed": 1056,
+          "health": 5715,
+          "endurance": 2640
+        },
+        "iv_avg": 28.53
+      },
+      {
+        "id": 47,
+        "tac": "darkmage",
+        "level": 2,
+        "gender": "M",
+        "ivs": {
+          "attack": 843,
+          "speed": 3918,
+          "health": 1170,
+          "endurance": 5451
+        },
+        "iv_avg": 39.88
+      },
+      {
+        "id": 48,
+        "tac": "annihilon",
+        "level": 7,
+        "gender": "F",
+        "ivs": {
+          "attack": 5711,
+          "speed": 1585,
+          "health": 5276,
+          "endurance": 8100
+        },
+        "iv_avg": 66.36
+      },
+      {
+        "id": 49,
+        "tac": "darkmage",
+        "level": 7,
+        "gender": "M",
+        "ivs": {
+          "attack": 3004,
+          "speed": 1930,
+          "health": 8528,
+          "endurance": 658
+        },
+        "iv_avg": 53.72
+      },
+      {
+        "id": 50,
+        "tac": "asterophant",
+        "level": 2,
+        "gender": "M",
+        "ivs": {
+          "attack": 2144,
+          "speed": 2970,
+          "health": 8176,
+          "endurance": 11777
+        },
+        "iv_avg": 72.72
+      },
+      {
+        "id": 51,
+        "tac": "asterophant",
+        "level": 5,
+        "gender": "M",
+        "ivs": {
+          "attack": 3088,
+          "speed": 1753,
+          "health": 11873,
+          "endurance": 4722
+        },
+        "iv_avg": 62.75
+      },
+      {
+        "id": 52,
+        "tac": "annihilon",
+        "level": 3,
+        "gender": "F",
+        "ivs": {
+          "attack": 1386,
+          "speed": 280,
+          "health": 6550,
+          "endurance": 6418
+        },
+        "iv_avg": 38.18
+      },
+      {
+        "id": 53,
+        "tac": "eternarch",
+        "level": 5,
+        "gender": "M",
+        "ivs": {
+          "attack": 6773,
+          "speed": 1396,
+          "health": 4487,
+          "endurance": 9642
+        },
+        "iv_avg": 49.41
+      },
+      {
+        "id": 54,
+        "tac": "eternarch",
+        "level": 3,
+        "gender": "F",
+        "ivs": {
+          "attack": 8728,
+          "speed": 2526,
+          "health": 15549,
+          "endurance": 11747
+        },
+        "iv_avg": 79.18
+      },
+      {
+        "id": 55,
+        "tac": "darkmage",
+        "level": 8,
+        "gender": "M",
+        "ivs": {
+          "attack": 1355,
+          "speed": 4974,
+          "health": 113,
+          "endurance": 858
+        },
+        "iv_avg": 34.86
+      },
+      {
+        "id": 56,
+        "tac": "asterophant",
+        "level": 3,
+        "gender": "F",
+        "ivs": {
+          "attack": 544,
+          "speed": 1867,
+          "health": 4861,
+          "endurance": 1925
+        },
+        "iv_avg": 30.25
+      },
+      {
+        "id": 57,
+        "tac": "annihilon",
+        "level": 5,
+        "gender": "M",
+        "ivs": {
+          "attack": 1464,
+          "speed": 1919,
+          "health": 11813,
+          "endurance": 7921
+        },
+        "iv_avg": 63.19
+      },
+      {
+        "id": 58,
+        "tac": "darkmage",
+        "level": 3,
+        "gender": "F",
+        "ivs": {
+          "attack": 2516,
+          "speed": 3539,
+          "health": 3337,
+          "endurance": 5772
+        },
+        "iv_avg": 55.53
+      },
+      {
+        "id": 59,
+        "tac": "asterophant",
+        "level": 3,
+        "gender": "F",
+        "ivs": {
+          "attack": 2191,
+          "speed": 319,
+          "health": 14352,
+          "endurance": 11665
+        },
+        "iv_avg": 60.41
+      },
+      {
+        "id": 60,
+        "tac": "asterophant",
+        "level": 4,
+        "gender": "M",
+        "ivs": {
+          "attack": 3079,
+          "speed": 1627,
+          "health": 13490,
+          "endurance": 11531
+        },
+        "iv_avg": 75.9
+      },
+      {
+        "id": 61,
+        "tac": "fleeb",
+        "level": 2,
+        "gender": "M",
+        "ivs": {
+          "attack": 1101,
+          "speed": 1482,
+          "health": 10484,
+          "endurance": 1201
+        },
+        "iv_avg": 47.83
+      },
+      {
+        "id": 62,
+        "tac": "asterophant",
+        "level": 7,
+        "gender": "M",
+        "ivs": {
+          "attack": 1559,
+          "speed": 1225,
+          "health": 2868,
+          "endurance": 10007
+        },
+        "iv_avg": 42.77
+      },
+      {
+        "id": 63,
+        "tac": "darkmage",
+        "level": 9,
+        "gender": "F",
+        "ivs": {
+          "attack": 2907,
+          "speed": 4929,
+          "health": 1868,
+          "endurance": 5928
+        },
+        "iv_avg": 60.99
+      },
+      {
+        "id": 64,
+        "tac": "darkmage",
+        "level": 5,
+        "gender": "F",
+        "ivs": {
+          "attack": 669,
+          "speed": 907,
+          "health": 4828,
+          "endurance": 2371
+        },
+        "iv_avg": 27.45
+      },
+      {
+        "id": 65,
+        "tac": "fleeb",
+        "level": 8,
+        "gender": "F",
+        "ivs": {
+          "attack": 467,
+          "speed": 393,
+          "health": 8659,
+          "endurance": 6375
+        },
+        "iv_avg": 42.26
+      },
+      {
+        "id": 66,
+        "tac": "eternarch",
+        "level": 10,
+        "gender": "F",
+        "ivs": {
+          "attack": 3517,
+          "speed": 1489,
+          "health": 9049,
+          "endurance": 5472
+        },
+        "iv_avg": 39.3
+      },
+      {
+        "id": 67,
+        "tac": "darkmage",
+        "level": 5,
+        "gender": "M",
+        "ivs": {
+          "attack": 155,
+          "speed": 1233,
+          "health": 6754,
+          "endurance": 5064
+        },
+        "iv_avg": 37.19
+      },
+      {
+        "id": 68,
+        "tac": "fleeb",
+        "level": 3,
+        "gender": "F",
+        "ivs": {
+          "attack": 2317,
+          "speed": 1248,
+          "health": 5274,
+          "endurance": 1149
+        },
+        "iv_avg": 46.74
+      },
+      {
+        "id": 69,
+        "tac": "eternarch",
+        "level": 7,
+        "gender": "M",
+        "ivs": {
+          "attack": 5097,
+          "speed": 420,
+          "health": 12104,
+          "endurance": 1978
+        },
+        "iv_avg": 36.34
+      },
+      {
+        "id": 70,
+        "tac": "kelprath",
+        "level": 8,
+        "gender": "M",
+        "ivs": {
+          "attack": 3052,
+          "speed": 3834,
+          "health": 14070,
+          "endurance": 11038
+        },
+        "iv_avg": 75.15
+      },
+      {
+        "id": 71,
+        "tac": "blightjaw",
+        "level": 9,
+        "gender": "F",
+        "ivs": {
+          "attack": 3704,
+          "speed": 800,
+          "health": 6510,
+          "endurance": 7344
+        },
+        "iv_avg": 52.34
+      },
+      {
+        "id": 72,
+        "tac": "ignivore",
+        "level": 1,
+        "gender": "M",
+        "ivs": {
+          "attack": 6884,
+          "speed": 6452,
+          "health": 10083,
+          "endurance": 7211
+        },
+        "iv_avg": 93.07
+      },
+      {
+        "id": 73,
+        "tac": "aurelith",
+        "level": 2,
+        "gender": "F",
+        "ivs": {
+          "attack": 2676,
+          "speed": 2112,
+          "health": 4690,
+          "endurance": 953
+        },
+        "iv_avg": 29.78
+      },
+      {
+        "id": 74,
+        "tac": "lightmage",
+        "level": 7,
+        "gender": "F",
+        "ivs": {
+          "attack": 633,
+          "speed": 3744,
+          "health": 7759,
+          "endurance": 4966
+        },
+        "iv_avg": 54.56
+      },
+      {
+        "id": 75,
+        "tac": "darkmage",
+        "level": 9,
+        "gender": "M",
+        "ivs": {
+          "attack": 1445,
+          "speed": 1707,
+          "health": 4794,
+          "endurance": 3104
+        },
+        "iv_avg": 37.84
+      }
+    ],
+    "next_instance_id": 76,
+    "astral": [
+      {
+        "instance_id": 20,
+        "mode": "rest",
+        "progress_chars": 40
+      },
+      {
+        "instance_id": 26,
+        "mode": "rest",
+        "progress_chars": 10
+      }
+    ],
+    "astral_offspring_pending": [],
+    "items": {
+      "eye_fragment": 1,
+      "ralgulfa_fang": 1
+    },
+    "meta": {
+      "last_daily": 0,
+      "streak": 0
+    },
+    "clan": "Nexus"
+  },
+  "1362863176877735966": {
+    "status": "artist & admin",
+    "user_id": 1362863176877735966,
+    "currency": {
+      "gold_shards": 1387,
+      "diamond_shards": 3,
+      "enchanted_shards": 1
+    },
+    "catches": {},
+    "inventory": [
+      {
+        "id": 1,
+        "tac": "annihilon",
+        "level": 7,
+        "gender": "M",
+        "ivs": {
+          "attack": 5800,
+          "speed": 4200,
+          "health": 12000,
+          "endurance": 9500
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 2,
+        "tac": "eternarch",
+        "level": 9,
+        "gender": "F",
+        "ivs": {
+          "attack": 9200,
+          "speed": 5600,
+          "health": 18000,
+          "endurance": 13000
+        },
+        "iv_avg": 100.0
+      },
+      {
+        "id": 3,
+        "tac": "annihilon",
+        "level": 5,
+        "gender": "F",
+        "ivs": {
+          "attack": 4968,
+          "speed": 4004,
+          "health": 11347,
+          "endurance": 7694
+        },
+        "iv_avg": 89.13
+      },
+      {
+        "id": 4,
+        "tac": "darkmage",
+        "level": 9,
+        "gender": "M",
+        "ivs": {
+          "attack": 3307,
+          "speed": 4531,
+          "health": 8652,
+          "endurance": 10446
+        },
+        "iv_avg": 90.76
+      },
+      {
+        "id": 5,
+        "tac": "fleeb",
+        "level": 8,
+        "gender": "M",
+        "ivs": {
+          "attack": 2699,
+          "speed": 1990,
+          "health": 13057,
+          "endurance": 6890
+        },
+        "iv_avg": 89.3
+      },
+      {
+        "id": 6,
+        "tac": "fleeb",
+        "level": 9,
+        "gender": "F",
+        "ivs": {
+          "attack": 2737,
+          "speed": 1895,
+          "health": 13252,
+          "endurance": 7705
+        },
+        "iv_avg": 91.28
+      },
+      {
+        "id": 7,
+        "tac": "fleeb",
+        "level": 9,
+        "gender": "F",
+        "ivs": {
+          "attack": 2902,
+          "speed": 1838,
+          "health": 13307,
+          "endurance": 7534
+        },
+        "iv_avg": 91.49
+      },
+      {
+        "id": 8,
+        "tac": "annihilon",
+        "level": 7,
+        "gender": "F",
+        "ivs": {
+          "attack": 4657,
+          "speed": 3960,
+          "health": 9900,
+          "endurance": 8904
+        },
+        "iv_avg": 87.7
+      },
+      {
+        "id": 9,
+        "tac": "asterophant",
+        "level": 23,
+        "gender": "M",
+        "ivs": {
+          "attack": 2984,
+          "speed": 2848,
+          "health": 15244,
+          "endurance": 12787
+        },
+        "iv_avg": 90.32
+      },
+      {
+        "id": 10,
+        "tac": "darkmage",
+        "level": 7,
+        "gender": "F",
+        "ivs": {
+          "attack": 1925,
+          "speed": 3098,
+          "health": 1823,
+          "endurance": 9901
+        },
+        "iv_avg": 54.8
+      },
+      {
+        "id": 11,
+        "tac": "darkmage",
+        "level": 3,
+        "gender": "F",
+        "ivs": {
+          "attack": 3827,
+          "speed": 3600,
+          "health": 2396,
+          "endurance": 9426
+        },
+        "iv_avg": 69.92
+      }
+    ],
+    "next_instance_id": 12,
+    "astral": [
+      {
+        "instance_id": 9,
+        "mode": "rest",
+        "progress_chars": 18
+      }
+    ],
+    "astral_offspring_pending": [],
+    "items": {},
+    "meta": {
+      "last_daily": 0,
+      "streak": 0
+    },
+    "clan": "Nexus"
+  },
+  "1379102293818871999": {
+    "status": "",
+    "user_id": 1379102293818871999,
+    "currency": {
+      "gold_shards": 0,
+      "diamond_shards": 0,
+      "enchanted_shards": 0
+    },
+    "catches": {},
+    "inventory": [],
+    "next_instance_id": 1,
+    "astral": [],
+    "astral_offspring_pending": [],
+    "items": {},
+    "meta": {
+      "last_daily": 0,
+      "streak": 0
+    },
+    "clan": null
+  },
+  "1067602443145334905": {
+    "status": "",
+    "user_id": 1067602443145334905,
+    "currency": {
+      "gold_shards": 12,
+      "diamond_shards": 0,
+      "enchanted_shards": 0
+    },
+    "catches": {},
+    "inventory": [
+      {
+        "id": 1,
+        "tac": "fleeb",
+        "level": 4,
+        "gender": "M",
+        "ivs": {
+          "attack": 901,
+          "speed": 1360,
+          "health": 3438,
+          "endurance": 1415
+        },
+        "iv_avg": 34.3
+      }
+    ],
+    "next_instance_id": 2,
+    "astral": [],
+    "astral_offspring_pending": [],
+    "items": {},
+    "meta": {
+      "last_daily": 0,
+      "streak": 0
+    },
+    "clan": null
+  }
+}
